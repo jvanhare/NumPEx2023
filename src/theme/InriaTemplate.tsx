@@ -59,7 +59,7 @@ const InriaTemplate: TemplateFn = (opt: {
         padding="10px 10px 10px 10px"
       >
         {opt.slideNumber}/{opt.numberOfSlides} - {Config.date} -{" "}
-        {Config.shortAuthor} - {Config.conference}
+        {Config.shortAuthor} - {Config.shortConference}
       </Heading>
     </Box>
     <Box

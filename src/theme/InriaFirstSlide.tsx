@@ -125,9 +125,9 @@ const InriaFirstSlide: TemplateFn = (opt: {
       </FlexBox>
       <FlexBox justifyContent="left">
         <Text
-          fontSize="text"
+          fontSize="28px"
           color="lightblue"
-          margin="32px 0px 0px 0px"
+          margin="8px 0px 0px 0px"
           padding="8px 16px 8px 16px"
         >
           {renderAuthors(Config.authors)}
@@ -136,7 +136,7 @@ const InriaFirstSlide: TemplateFn = (opt: {
       {Config.affiliation.map((affiliation, number) => (
         <FlexBox justifyContent="left">
           <Text
-            fontSize="text"
+            fontSize="28px"
             color="lightblue"
             margin="0px 0px 0px 0px"
             padding="8px 16px 8px 16px"
@@ -149,7 +149,7 @@ const InriaFirstSlide: TemplateFn = (opt: {
       {Config.affiliation.map((affiliation, number) => (
         <FlexBox justifyContent="left">
           <Text
-            fontSize="text"
+            fontSize="28px"
             color="lightblue"
             margin="0px 0px 0px 0px"
             padding="8px 16px 8px 16px"
