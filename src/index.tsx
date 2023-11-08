@@ -102,7 +102,7 @@ const Presentation = () => (
         <Image
           fileName="hlpw3.png"
           legend="AIAA HLPW3 Common Research Model."
-          width="80%"
+          width="100%"
         />
       }
     ></TwoColumns>
