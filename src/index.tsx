@@ -320,9 +320,8 @@ const Presentation = () => (
           <UnorderedList>
             <ListItem>
               SAFRAN expects to simulate the{" "}
-              <Alert>whole pressure ratio characteristic</Alert>
-              from choke flow to stall for certification purpose and fuel
-              consumption reduction:
+              <Alert>whole pressure ratio characteristic</Alert> from choke flow
+              to stall for certification purpose and fuel consumption reduction:
             </ListItem>
             <UnorderedList>
               <ListItem>
